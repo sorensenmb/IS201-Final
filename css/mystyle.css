@@ -1,0 +1,10 @@
+ol{
+    font-size: smaller;
+    text-align: left;
+    display: inline-block
+}
+
+ul{
+    text-align: left;
+    display: inline-block;
+}
